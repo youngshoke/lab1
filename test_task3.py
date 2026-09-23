@@ -2,7 +2,7 @@
 
 import unittest
 
-from task3 import log_calls, memoize, validate_types
+from task3_lab2 import log_calls, memoize, validate_types
 
 
 class TestLogCalls(unittest.TestCase):

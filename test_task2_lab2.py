@@ -2,7 +2,7 @@
 
 import unittest
 
-from task2 import compose, mean, median, normalize, normalize_inplace, pipeline, variance
+from test_task2_lab2 import compose, mean, median, normalize, normalize_inplace, pipeline, variance
 
 
 class TestMean(unittest.TestCase):
