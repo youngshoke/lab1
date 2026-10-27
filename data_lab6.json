@@ -1,0 +1,53 @@
+{
+  "university": "Алматинский университет",
+  "year": 2026,
+  "institutes": [
+    {
+      "name": "Институт автоматизации и информационных технологий",
+      "departments": [
+        {
+          "name": "Программная инженерия",
+          "staff": [
+            {
+              "name": "Алия",
+              "age": 34,
+              "contacts": {
+                "email": "aliya@example.kz",
+                "phones": ["+7 701 000 00 01", "+7 727 000 00 02"]
+              },
+              "courses": [
+                {"code": "CSE6742", "hours": 45},
+                {"code": "CSE5101", "hours": 30}
+              ]
+            },
+            {
+              "name": "Данияр",
+              "age": 41,
+              "contacts": {
+                "email": "daniyar@example.kz",
+                "phones": ["+7 702 000 00 03"]
+              },
+              "courses": [
+                {"code": "CSE4410", "hours": 60}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Информационные системы",
+          "staff": [
+            {
+              "name": "Мадина",
+              "age": 29,
+              "contacts": {
+                "email": "madina@example.kz",
+                "phones": []
+              },
+              "courses": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
